@@ -1,7 +1,7 @@
 # ⚙️ AWS CI/CD Project
 
 ## 📘 Overview
-This project demonstrates a **Continuous Integration and Continuous Deployment (CI/CD)** pipeline using **AWS** services — including **CodePipeline**, **CodeBuild**, **Elastic Beanstalk**, and **RDS** — with the source code hosted in **Bitbucket**.  
+This project demonstrates a **Continuous Integration and Continuous Deployment (CI/CD)** pipeline using **AWS** services  including **CodePipeline**, **CodeBuild**, **Elastic Beanstalk**, and **RDS**  with the source code hosted in **Bitbucket**.  
 
 The primary goal of this project is to automate the build, test, and deployment process of a web application, ensuring faster, reliable, and consistent delivery of software updates.
 
